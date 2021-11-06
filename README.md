@@ -14,6 +14,9 @@ export GUILD_ID=<server guild id>
 node bot.js
 ```
 
+## bot permission
+it needs bot and change nickname permission.
+
 ## demo
 ![demo pic](./demo.png)
 
